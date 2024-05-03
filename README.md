@@ -8,7 +8,7 @@
 <br>Program ini adalah program sederhana tentang hewan-hewan untuk mengimplementasikan encapsulation, inheritance, polymorphism, dan interface. 
 
 ## Deskripsi
-Program ini adalah program sederhana tentang hewan-hewan untuk mengimplementasikan encapsulation, inheritance, polymorphism, dan interface. Program ini juga menggunakan konsep abstraksi dengan membuat class hewan sebagai abstract class, dimana method suara() dideklarasikan sebagai abstract method yang harus diimplementasikan oleh subclassnya. Outputnya berupa jenis hewan, suara jenis hewan tersebut, dan proses makan masing-masing hewan.
+<br>Program ini adalah program sederhana tentang hewan-hewan untuk mengimplementasikan encapsulation, inheritance, polymorphism, dan interface. Program ini juga menggunakan konsep abstraksi dengan membuat class hewan sebagai abstract class, dimana method suara() dideklarasikan sebagai abstract method yang harus diimplementasikan oleh subclassnya. Outputnya berupa jenis hewan, suara jenis hewan tersebut, dan proses makan masing-masing hewan.
 
 ## Source Code
 
@@ -87,5 +87,5 @@ public class binatang {
 
 ## Output
 <br> Berikut adalah output kedua program tersebut
-![Screenshot 2024-05-03 172232](https://github.com/onixasf/UTS-PRAK.PBO-OnixaShafaP.W-Kelas-E/assets/119369695/5b3f644c-abf4-4a84-97ff-e91e867460cd)
+<br>![Screenshot 2024-05-03 172232](https://github.com/onixasf/UTS-PRAK.PBO-OnixaShafaP.W-Kelas-E/assets/119369695/5b3f644c-abf4-4a84-97ff-e91e867460cd)
 
